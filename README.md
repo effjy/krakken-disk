@@ -159,6 +159,6 @@ make run
 ## 👥 Authors & Contact
 
 - **Lead Cryptographer & GUI Developer**: Jean-Francois Lachance-Caumartin (Effjy)
-- **Contact**: [effjy@tutamail.com](mailto:effjy@tutamail.com)
+- **Contact**: [effjy@protonmail.com](mailto:effjy@protonmail.com)
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
