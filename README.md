@@ -1,6 +1,6 @@
 # 🐙 Krakken-Disk v4.5.0
 
-[![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg)](#)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![C Standard: C11](https://img.shields.io/badge/C-C11-blue.svg)](#)
 [![Platform: Linux](https://img.shields.io/badge/Platform-Linux-orange.svg)](#)
 [![Security: Post--Quantum](https://img.shields.io/badge/Security-Post--Quantum--Era-teal.svg)](#)
@@ -161,4 +161,4 @@ make run
 - **Lead Cryptographer & GUI Developer**: Jean-Francois Lachance-Caumartin (Effjy)
 - **Contact**: [effjy@tutamail.com](mailto:effjy@tutamail.com)
 
-*Krakken-Disk is protected by a proprietary license. Unauthorized duplication, modification, or redistribution is strictly prohibited.*
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
