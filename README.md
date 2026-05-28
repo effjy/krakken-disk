@@ -156,6 +156,14 @@ make run
 
 ---
 
+## 🔗 Related Projects
+
+- **[Krakken-2048 Abyssal](https://github.com/effjy/krakken)** – The 2048‑bit SPN‑ARX hybrid permutation powering Krakken‑Disk.
+- **[vWipe Turbo](https://github.com/effjy/vwipe)** – A parallel secure data sanitization tool for SSDs.
+
+---
+
+
 ## 👥 Authors & Contact
 
 - **Lead Cryptographer & GUI Developer**: Jean-Francois Lachance-Caumartin (Effjy)
