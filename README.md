@@ -16,7 +16,7 @@
 ## 📸 Screenshot
 
 <div align="center">
-  <img src="screenshot.png" alt="Krakken-Disk Main Dashboard" width="800"/>
+  <img src="screenshot.png" alt="Krakken-Disk Main Dashboard" width="700"/>
   <br/>
   <em>Krakken-Disk dark-themed GTK interface — volume management for the post-quantum era</em>
 </div>
