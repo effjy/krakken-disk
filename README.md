@@ -11,6 +11,18 @@
 [![Security](https://img.shields.io/badge/security-Post--Quantum-teal)]()
 [![Core](https://img.shields.io/badge/core-Krakken--2048-00FFCC)]()
 
+---
+
+## 📸 Screenshot
+
+<div align="center">
+  <img src="screenshot.png" alt="Krakken-Disk Main Dashboard" width="800"/>
+  <br/>
+  <em>Krakken-Disk dark-themed GTK interface — volume management for the post-quantum era</em>
+</div>
+
+---
+
 **Krakken-Disk** is an ultra-secure, high-performance encrypted volume manager built for the post-quantum era. Powered by the 2048-bit **Krakken-2048 Abyssal** permutation, it delivers a uniform 256-bit security margin against both classical and quantum adversaries (post-Grover).
 
 By intelligently combining lattice-based cryptography, elliptic curve hybrids, and AVX2-accelerated primitives, Krakken-Disk offers strong protection, plausible deniability, and exceptional speed on modern hardware.
@@ -145,4 +157,3 @@ Lead Cryptographer & Developer
 This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
 
 *🦑 Released into the Abyss — 2026*
-```
