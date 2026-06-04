@@ -1,9 +1,9 @@
 <div align="center">
   <img src="krakken_logo.png" alt="Krakken-Disk Logo" width="260"/>
 </div>
-
-# 🐙 Krakken-Disk v4.5.0
-
+<h1>
+🐙 Krakken-Disk v4.5.0
+</h1>
 [![License: MIT](https://img.shields.io/badge/License-MIT-teal?style=flat-square&labelColor=1a1a1a)](LICENSE)
 [![Version](https://img.shields.io/badge/version-4.5.0-teal?style=flat-square&labelColor=1a1a1a)]()
 [![Language](https://img.shields.io/badge/language-C-teal?style=flat-square&labelColor=1a1a1a)]()
