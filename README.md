@@ -1,9 +1,10 @@
 <div align="center">
   <img src="krakken_logo.png" alt="Krakken-Disk Logo" width="260"/>
 </div>
-<h1>
+<div align="center"><h1>
 🐙 Krakken-Disk v4.5.0
 </h1>
+</div>
 <div align="center">
   
 [![License: MIT](https://img.shields.io/badge/License-MIT-teal?style=flat-square&labelColor=1a1a1a)](LICENSE)
