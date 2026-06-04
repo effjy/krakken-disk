@@ -2,7 +2,7 @@
   <img src="krakken_logo.png" alt="Krakken-Disk Logo" width="260"/>
 </div>
 <div align="center"><h1>
-🐙 Krakken-Disk v4.5.0
+Krakken-Disk v4.5.0
 </h1>
 </div>
 <div align="center">
