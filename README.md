@@ -4,12 +4,12 @@
 
 # 🐙 Krakken-Disk v4.5.0
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/version-4.5.0-brightgreen)]()
-[![Language](https://img.shields.io/badge/language-C-blue)]()
-[![Platform](https://img.shields.io/badge/platform-Linux-important)]()
-[![Security](https://img.shields.io/badge/security-Post--Quantum-teal)]()
-[![Core](https://img.shields.io/badge/core-Krakken--2048-00FFCC)]()
+[![License: MIT](https://img.shields.io/badge/License-MIT-teal?style=flat-square&labelColor=1a1a1a)](LICENSE)
+[![Version](https://img.shields.io/badge/version-4.5.0-teal?style=flat-square&labelColor=1a1a1a)]()
+[![Language](https://img.shields.io/badge/language-C-teal?style=flat-square&labelColor=1a1a1a)]()
+[![Platform](https://img.shields.io/badge/platform-Linux-8a2be2?style=flat-square&labelColor=1a1a1a)]()
+[![Security](https://img.shields.io/badge/security-Post--Quantum-teal?style=flat-square&labelColor=1a1a1a)]()
+[![Core](https://img.shields.io/badge/core-Krakken--2048-teal?style=flat-square&labelColor=1a1a1a)]()
 
 ---
 
