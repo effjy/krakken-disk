@@ -14,7 +14,6 @@
 [![Core](https://img.shields.io/badge/core-Krakken--2048-teal?style=flat-square&labelColor=1a1a1a)]()
 
 </div>
----
 
 ## 📸 Screenshot
 
