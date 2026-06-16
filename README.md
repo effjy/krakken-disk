@@ -2,7 +2,7 @@
   <img src="krakken_logo.png" alt="Krakken-Disk Logo" width="260"/>
 </div>
 <div align="center"><h1>
-Krakken-Disk v4.5.0
+<a href="https://github.com/effjy/REPO/"><img src="titles/krakken-disk-v450-title.svg" height="52" alt="Krakken-Disk v4.5.0"></a>
 </h1>
 </div>
 <div align="center">
